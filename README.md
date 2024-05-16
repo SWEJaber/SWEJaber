@@ -5,8 +5,8 @@ Hello! Welcome to my GitHub profile 😎. I am Jaber, a software engineer and a 
 I am always looking for the next big challenge!
 
 - 🏢 I work as a Senior Software Engineer at [STC](https://www.stc.com.sa/)
-- 🎸 I’m currently working on a music-themed application with [SamPaddock](https://github.com/SamPaddock)
-- 🌱 I’m reading about monorepoes, test-driven development
+- 🎸 I’m currently working on a music-themed application with [Sarah A](https://github.com/SamPaddock)
+- 🌱 I’m reading about monorepoes and test-driven development
 - 👨‍🏫 I like to mentor junior developers
-- 📫 You can reach out to me on [Linkedin](https://www.linkedin.com/in/swejaber) and [my gmail](SWE.Jaber@gmail.com)
 - ⚡ I love playing video games, reading books, and listening to music
+- 📫 You can reach out to me on [Linkedin](https://www.linkedin.com/in/swejaber) and [my gmail](SWE.Jaber@gmail.com)
