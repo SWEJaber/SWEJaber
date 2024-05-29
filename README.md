@@ -4,6 +4,7 @@ Hello! Welcome to my GitHub profile 😎. I am Jaber, a software engineer and a 
 
 I am always looking for the next big challenge!
 
+- 🇸🇦 I'm from al-Hasa, a Saudi Arabian governante known for its palm trees 🌴.
 - 👨‍💻 I work as a Senior Software Engineer at [STC](https://www.stc.com.sa/)
 - 🎸 I’m currently developing a music-themed application with [Sarah A](https://github.com/SamPaddock)
 - 🌱 I’m reading about monorepoes and test-driven development
